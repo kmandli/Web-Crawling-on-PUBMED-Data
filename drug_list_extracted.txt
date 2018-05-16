@@ -1,0 +1,342 @@
+6-(2-(8-(2,2-dimethylbutyryl)oxy)-2,6-dimethyl-5-hydroxy-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthyl-1-ethyl)-4-hydroxy-3,4,5,6-tetrahydro-2H-pyran-2-one
+Acetates
+Anticholesteremic Agents
+Hydroxymethylglutaryl-CoA Reductase Inhibitors
+Cholesterol
+Lovastatin
+Simvastatin
+Oxygen
+Anti-Bacterial Agents
+Catechol O-Methyltransferase Inhibitors
+Indicators and Reagents
+Penicillins
+beta-Lactams
+6-(2-(3-(5-chloro-3,4-dihydroxybenzoyl)-3-(3-hydroxypropyl)-1-ureido)-2-phenylacetamido)penicillanic acid
+6-(2-(3-(2-chloro-3,4-dihydroxybenzoyl)-3-(3-hydroxypropyl)-1-ureido)-2-phenylacetamido)penicillanic acid
+6-(2-(3-(2,5-dichloro-3,4-dihydroxybenzoyl)-3-(3-hydroxypropyl)-1-ureido)-2-phenylacetamido)penicillanic acid
+Water
+Ferrochelatase
+Titanium
+Proto-Oncogene Proteins
+RNA, Messenger
+Receptors, Purinergic P2
+Transcription Factors
+Tritium
+Adenosine Triphosphate
+DNA
+Protein-Serine-Threonine Kinases
+Proto-Oncogene Proteins c-raf
+Protein Kinase C
+Calcium-Calmodulin-Dependent Protein Kinases
+GTP-Binding Proteins
+Leucine
+Thymidine
+Thallium Radioisotopes
+Dobutamine
+Immunoglobulin Heavy Chains
+Immunoglobulin Variable Region
+Powders
+Silicon Dioxide
+Hepatitis C Antibodies
+Serotonin Uptake Inhibitors
+Fluoxetine
+Fluvoxamine
+Antipsychotic Agents
+Gastrointestinal Agents
+Receptors, Cholecystokinin
+Tetragastrin
+Ceruletide
+Cholecystokinin
+Haloperidol
+Toxins, Biological
+Anesthetics, Local
+Bacterial Proteins
+Anti-Bacterial Agents
+Plant Extracts
+Hydroquinones
+Arbutin
+Cations
+Sodium Channels
+Ethanol
+Tetrodotoxin
+Bacterial Proteins
+DNA-Binding Proteins
+Membrane Proteins
+NNR protein, Paracoccus denitrificans
+NirI protein, Paracoccus denitrificans
+NirX protein, Paracoccus denitrificans
+Transcription Factors
+Nitrite Reductases
+2-(1-(3,5-bis(trifluoromethyl)phenyl)ethoxy)-3-(4-fluoro)phenyl-4-(5-(2-phosphoryl-3-oxo-4H,-1,2,4-triazolo))methylmorpholine, bis(N-methylglucamine) salt
+Acetals
+Anti-Inflammatory Agents, Non-Steroidal
+Antiemetics
+Antineoplastic Agents
+Morpholines
+Neurokinin-1 Receptor Antagonists
+Prodrugs
+Water
+aprepitant
+Cisplatin
+Myosins
+myosin VIIa
+Dyneins
+BRCA1 Protein
+BRCA2 Protein
+Neoplasm Proteins
+RNA, Messenger
+Transcription Factors
+1-(1-(4-aminobenzoyl)indoline-5-sulfonyl)-4-phenyl-4,5-dihydroimidazol-2-one
+Antineoplastic Agents
+Imidazoles
+Sulfones
+Histamine Agonists
+Histamine H1 Antagonists
+Histamine H2 Antagonists
+Interleukin-6
+RNA, Messenger
+Receptors, Histamine H1
+Toluidines
+6-((2-(4-imidazolyl)ethyl)amino)heptanoic acid 4-toluidide
+Histamine
+Glucuronidase
+Calcium
+Dimaprit
+Antineoplastic Agents
+Anti-Bacterial Agents
+Doxycycline
+DNA Transposable Elements
+Proteins
+Proteome
+RNA
+Coated Materials, Biocompatible
+Dental Implants
+Sulfuric Acids
+Titanium
+sulfuric acid
+Hydrochloric Acid
+2-((1-benzenesulfonylpyrrolidine-2-carbonyl)amino)-4-(4-methyl-2-(methyl-(2-(4-(3-o-tolylureido)phenyl)acetyl)amino)pentanoylamino)butyric acid
+Benzoates
+Cations
+Dipeptides
+Integrin alpha4beta1
+Integrins
+Ions
+Ligands
+Phenylurea Compounds
+Receptors, Lymphocyte Homing
+Manganese
+Edetic Acid
+Magnesium
+Calcium
+Bone Substitutes
+Calcium Phosphates
+beta-tricalcium phosphate
+tricalcium phosphate
+1-((1-(3-(4-aminophenyl)-3-phenylpropenoyl)-4-piperidyl)methyl)-1H-2-methylimidazo(4,5-c)pyridine
+Amines
+Aminosalicylic Acids
+Anti-Inflammatory Agents, Non-Steroidal
+Aza Compounds
+Azo Compounds
+Imidazoles
+Platelet Activating Factor
+Prodrugs
+Pyridines
+UR 12746
+Mesalamine
+Trinitrobenzenesulfonic Acid
+FBN1 protein, human
+Fibrillin-1
+Fibrillins
+Microfilament Proteins
+Fluorescent Dyes
+Indoles
+indo-1
+Calcium
+Fura-2
+Calcium-Binding Proteins
+Calmodulin
+Plant Growth Regulators
+Calcium-Calmodulin-Dependent Protein Kinases
+Calcium
+HLA Antigens
+HLA-A Antigens
+HLA-B Antigens
+HLA-DQ Antigens
+HLA-DQ beta-Chains
+HLA-DQB1 antigen
+HLA-DR Antigens
+HLA-DRB1 Chains
+Anthrax Vaccines
+Penicillins
+Pharmaceutical Preparations
+FBN1 protein, human
+Fibrillin-1
+Fibrillins
+Microfilament Proteins
+DNA
+Adaptor Proteins, Signal Transducing
+Carrier Proteins
+DNA-Binding Proteins
+MLH1 protein, human
+Neoplasm Proteins
+Nuclear Proteins
+Proto-Oncogene Proteins
+DNA
+MSH2 protein, human
+MutL Protein Homolog 1
+MutS Homolog 2 Protein
+Matrix Metalloproteinases
+Antioxidants
+Vitamins
+Zinc
+Anti-Bacterial Agents
+DNA, Complementary
+Histones
+RNA, Messenger
+RNA
+Hydrogen Peroxide
+Bacterial Proteins
+Cytoskeletal Proteins
+DNA Primers
+FtsZ protein, Bacteria
+Membrane Proteins
+FtsW protein, Bacteria
+Carrier Proteins
+Membrane Proteins
+Nerve Tissue Proteins
+Qa-SNARE Proteins
+Recombinant Fusion Proteins
+SNAP25 protein, human
+SNARE Proteins
+STX1A protein, human
+STXBP6 protein, human
+Snap25 protein, rat
+Stx1a protein, rat
+Synaptosomal-Associated Protein 25
+Syntaxin 1
+Vesicular Transport Proteins
+Glutathione Transferase
+Norepinephrine
+Bleomycin
+Procarbazine
+Mechlorethamine
+Vincristine
+Vinblastine
+Lomustine
+Dacarbazine
+Doxorubicin
+Prednisone
+Antioxidants
+Mitochondrial Membrane Transport Proteins
+Piperazines
+S 15176
+mitochondrial permeability transition pore
+NADP
+Calcium
+Antipsychotic Agents
+Dopamine D2 Receptor Antagonists
+Serotonin 5-HT2 Receptor Antagonists
+Saccharin
+Risperidone
+Carbazoles
+Dopamine Plasma Membrane Transport Proteins
+Dopamine Uptake Inhibitors
+Receptors, sigma
+rimcazole
+Cocaine
+Esters
+Insecticides
+Organophosphates
+Phosphates
+Phosphorus
+Calcium
+Chylomicrons
+Lipids
+Lipoproteins
+Serotonin
+Platelet Aggregation Inhibitors
+Purinergic P2Y Receptor Antagonists
+Receptors, Purinergic P2Y12
+clopidogrel
+Ticlopidine
+Interleukin-6
+Diuretics
+Furosemide
+Sodium
+Amino Acids
+Proteins
+Enzyme Inhibitors
+Chloramphenicol
+3' Untranslated Regions
+5' Untranslated Regions
+RNA, Viral
+Adenosine Triphosphate
+Acetoacetates
+Butyrates
+Butyric Acid
+acetoacetic acid
+Hydrogen
+Anti-Infective Agents, Local
+Hydrazones
+DNA
+Methyltransferases
+beta-Galactosidase
+DNA Helicases
+Hells protein, mouse
+Bromodeoxyuridine
+DNA, Neoplasm
+Receptor, trkA
+Guanine
+Cytosine
+DNA
+Food Additives
+Quinoxalines
+olaquindox
+Estrogens, Conjugated (USP)
+Medroxyprogesterone
+Anti-Arrhythmia Agents
+Anti-HIV Agents
+RNA, Viral
+Antifungal Agents
+Amphotericin B
+Cytarabine
+Tamoxifen
+Aminoglutethimide
+Mitoxantrone
+Danazol
+Estrogens
+Progestins
+Actins
+Adaptor Proteins, Signal Transducing
+Eps8 protein, mouse
+Nerve Tissue Proteins
+Anti-Inflammatory Agents
+Cyclooxygenase Inhibitors
+Hydroxyeicosatetraenoic Acids
+Lipoxygenase Inhibitors
+NF-kappa B
+Phorbols
+Plant Extracts
+Sesquiterpenes, Guaiane
+ziniolide
+15-hydroxy-5,8,11,13-eicosatetraenoic acid
+Lipoxygenases
+Cyclooxygenase 1
+phorbol
+Avian Proteins
+Biogenic Monoamines
+Hypothalamic Hormones
+RNA, Messenger
+Receptors, Adrenergic, alpha-2
+gonadotropin-inhibitory hormone, Coturnix japonica
+Gonadotropin-Releasing Hormone
+Luteinizing Hormone
+Norepinephrine
+Antibodies, Viral
+Biological Products
+Anti-Bacterial Agents
+Bacterial Proteins
+Bacterial Vaccines
+Ligands
